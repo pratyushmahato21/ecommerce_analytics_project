@@ -11,15 +11,22 @@ While working on this project, you are expected to clean the data (if required) 
 Below are some sample business questions that need to be addressed.
 1. Perform Detailed Exploratory Data Analysis
    a. Define & calculate high-level metrics like (Total Revenue, Total quantity, Total products, Total categories, Total sellers, Total locations, Total channels, Total payment methods, etc…)
+   
    b. Understanding how many new customers are acquired every month
+   
    c. Understand the retention of customers on a month-on-month basis
+   
    d. How are the revenues from existing/new customers on a month-on-month basis
+   
    e. Understand the trends/seasonality of sales, quantity by category, location, month, week, day, time, channel, payment method, etc…
+   
    f. Popular Products by month, seller, state, category
+   
    g. Popular categories by state, month
+   
    h. List the top 10 most expensive products sorted by price
    
-2. Performing Customers/sellers Segmentation
+3. Performing Customers/sellers Segmentation
    a. Divide the customers into groups based on the revenue generated
    b. Divide the sellers into groups based on the revenue generated
 4. Cross-Selling (Which products are selling together) {Hint: We need to find which of the top 10 combinations of products are selling together in each transaction. (combination of 2 or 3 buying together)}
