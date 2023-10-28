@@ -2,7 +2,7 @@
 
 # Python-Foundation-End-to-End-Case-Study-E-Commerce-Analytics-Project
 
-# datasets are available in 'dataset' branch
+# Datasets are available in the 'dataset' branch
 
 # Business Context:
 The client is one of the leading online marketplaces in India. The client wants help in measuring, managing, and analyzing the performance of the business.
